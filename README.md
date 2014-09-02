@@ -1,6 +1,3 @@
-#THE REPO WAS MOVED
-##The repo now resides [here](https://github.com/SlimeKnights/IguanaTweaksTConstruct)
-
 IguanaTweaks for Tinkers Construct
 ==================================
 
